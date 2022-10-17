@@ -10,5 +10,6 @@ public class Practice extends BaseClass{
  
 	driver.get("https://amazon.in"); 
 	System.out.println("doing for practice"); 
+	
  }
 }
