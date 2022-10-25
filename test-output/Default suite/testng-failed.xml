@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.dummy.demo.MakeMyTripFromField">
+      <class name="com.dummy.demo.FlexibusBookingModified">
         <methods>
-          <include name="formFieldMakeMyTrip"/>
+          <include name="flixBusBookingForTripText"/>
         </methods>
-      </class> <!-- com.dummy.demo.MakeMyTripFromField -->
+      </class> <!-- com.dummy.demo.FlexibusBookingModified -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

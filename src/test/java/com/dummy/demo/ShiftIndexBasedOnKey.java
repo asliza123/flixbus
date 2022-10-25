@@ -24,6 +24,8 @@ public class ShiftIndexBasedOnKey {
 			System.out.print(arr[i]+" ");
 		}
 		System.out.println();
+		
+		
 		for(int i=0;i<key;i++)
 		{
 			int temp=arr[arr.length-1];
@@ -38,6 +40,7 @@ public class ShiftIndexBasedOnKey {
 		{
 			System.out.print(arr[i]+" ");
 		}
+		
 		
 	}
 

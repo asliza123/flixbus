@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.dummy.demo.MicTestHandlePopUp"/>
+      <class name="com.dummy.demo.NykaaXpath"/>
+      <class name="com.dummy.demo.HandleWindowByGetWindowHandle"/>
+      <class name="com.dummy.demo.FlexibusBookingModified"/>
+      <class name="com.dummy.demo.MakeMyTripFromField"/>
+      <class name="com.dummy.demo.PlayersRankingOfWomensTeamInICC"/>
+      <class name="com.dummy.demo.SelectSongFromYouTube"/>
+      <class name="com.dummy.demo.Practice"/>
+      <class name="com.dummy.demo.Practice2"/>
+      <class name="com.dummy.demo.SelectTeamInICCWebsite"/>
+      <class name="com.dummy.demo.RankingDDxpathForICC"/>
+      <class name="com.dummy.demo.FlipkartWaterHeater"/>
+      <class name="com.dummy.demo.FlixBusBooking"/>
+      <class name="com.dummy.demo.YatraComXpath"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
